@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:07 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sat Sep 19 20:32:33 2020
+# Process ID: 7628
+# Current directory: /home/bogdan/Escritorio/tfg/3.Work/grlib-gpl-2018.1-b4217/designs/leon3-digilent-nexys4ddr
+# Command line: vivado -mode batch -source ./vivado/leon3mp_vivado.tcl ./vivado/leon3mp_vivado_run.tcl
+# Log file: /home/bogdan/Escritorio/tfg/3.Work/grlib-gpl-2018.1-b4217/designs/leon3-digilent-nexys4ddr/vivado.log
+# Journal file: /home/bogdan/Escritorio/tfg/3.Work/grlib-gpl-2018.1-b4217/designs/leon3-digilent-nexys4ddr/vivado.jou
+#-----------------------------------------------------------
+source ./vivado/leon3mp_vivado.tcl
+source ./vivado/leon3mp_vivado_run.tcl

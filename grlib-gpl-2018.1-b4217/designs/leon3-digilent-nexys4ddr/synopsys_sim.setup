@@ -1,0 +1,19 @@
+
+grlib : vcs/grlib
+secureip : vcs/secureip
+unisim : vcs/unisim
+techmap : vcs/techmap
+eth : vcs/eth
+opencores : vcs/opencores
+gaisler : vcs/gaisler
+esa : vcs/esa
+fmf : vcs/fmf
+spansion : vcs/spansion
+gsi : vcs/gsi
+cypress : vcs/cypress
+micron : vcs/micron
+testgrouppolito : vcs/testgrouppolito
+work : vcs/work
+WORK > work
+timebase = ps
+
